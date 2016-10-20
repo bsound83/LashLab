@@ -1,0 +1,16 @@
+{
+    "remotePath": "./lashlabmpls.com",
+    "host": "lashlabmpls.com",
+    "username": "lissou",
+    "password": "B1ngst0n",
+    "port": 21,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git"
+    ]
+}
